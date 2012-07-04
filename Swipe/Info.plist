@@ -4,27 +4,34 @@
 <dict>
 	<key></key>
 	<string>&lt;key&gt;UIStatusBarHidden&lt;/key&gt;&lt;true /&gt;</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.posterBoard</string>
-	<key>CFBundleInfoDictionaryVersion</key>
-	<string>6.0</string>
-	<key>CFBundleVersion</key>
-	<string>1.11</string>
-	<key>UTExportedTypeDeclarations</key>
-	<array/>
-	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
-	<key>LSRequiresIPhoneOS</key>
-	<true/>
-	<key>CFBundleIconFiles</key>
-	<array>
-		<string>Icon_pb.png</string>
-		<string>Icon_pb@2x.png</string>
-	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
 	<key>CFBundleDisplayName</key>
 	<string>${PRODUCT_NAME}</string>
 	<key>CFBundleDocumentTypes</key>
 	<array/>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array/>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>Alex.com</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -36,19 +43,15 @@
 			</array>
 		</dict>
 	</array>
-	<key>CFBundlePackageType</key>
-	<string>APPL</string>
-	<key>CFBundleIconFile</key>
-	<string>Icon_pb.png</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.11</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array/>
 	<key>UTImportedTypeDeclarations</key>
 	<array/>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
-	<key>CFBundleName</key>
-	<string>${PRODUCT_NAME}</string>
 </dict>
 </plist>

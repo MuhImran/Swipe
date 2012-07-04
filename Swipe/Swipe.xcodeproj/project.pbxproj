@@ -286,8 +286,6 @@
 		C1DDB468148834C40062FD81 /* properties.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB3FC148834C20062FD81 /* properties.strings */; };
 		C1DDB469148834C40062FD81 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB3FD148834C20062FD81 /* style.css */; };
 		C1DDB46A148834C40062FD81 /* TopPost.html in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB3FE148834C20062FD81 /* TopPost.html */; };
-		C1DDB46C148834C40062FD81 /* Icon_pb.png in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB400148834C20062FD81 /* Icon_pb.png */; };
-		C1DDB46D148834C40062FD81 /* Icon_pb@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB401148834C20062FD81 /* Icon_pb@2x.png */; };
 		C1DDB46E148834C40062FD81 /* locationbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB402148834C20062FD81 /* locationbutton.png */; };
 		C1DDB46F148834C40062FD81 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB403148834C20062FD81 /* Logo.png */; };
 		C1DDB470148834C40062FD81 /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = C1DDB404148834C20062FD81 /* map.png */; };
@@ -2494,8 +2492,6 @@
 				C1DDB468148834C40062FD81 /* properties.strings in Resources */,
 				C1DDB469148834C40062FD81 /* style.css in Resources */,
 				C1DDB46A148834C40062FD81 /* TopPost.html in Resources */,
-				C1DDB46C148834C40062FD81 /* Icon_pb.png in Resources */,
-				C1DDB46D148834C40062FD81 /* Icon_pb@2x.png in Resources */,
 				C1DDB46E148834C40062FD81 /* locationbutton.png in Resources */,
 				C1DDB46F148834C40062FD81 /* Logo.png in Resources */,
 				C1DDB470148834C40062FD81 /* map.png in Resources */,
@@ -2893,7 +2889,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Eugene Woo (QLKNPX9NXS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alex Kiss (A65R6W6MSF)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -2923,7 +2919,7 @@
 				);
 				PRODUCT_NAME = Swipe;
 				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8347B0FD-523B-473E-9B0A-054981371836";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "0D9E61E6-3FD3-4005-B3D3-82F49E5AB24D";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -2968,7 +2964,7 @@
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Eugene Woo (QLKNPX9NXS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alex Kiss (A65R6W6MSF)";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
@@ -2984,7 +2980,7 @@
 				);
 				PREBINDING = NO;
 				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8347B0FD-523B-473E-9B0A-054981371836";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "0D9E61E6-3FD3-4005-B3D3-82F49E5AB24D";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;

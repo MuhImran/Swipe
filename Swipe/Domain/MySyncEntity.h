@@ -7,11 +7,13 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <AddressBook/AddressBook.h>
 
 @interface MySyncEntity:NSObject
 {
+    NSManagedObjectContext      *managedObjectContext;
 }
-@property (nonatomic, retain) NSArray* AddressBook;
-
+@property (nonatomic, retain) NSArray* AddressBookArray;
++(MySyncEntity *) getLocalAddressBook;
+- (NSArray*)printAddressBook;
 @end 

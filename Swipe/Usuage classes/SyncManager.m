@@ -349,7 +349,7 @@ static NSString *kSyncLabelPrefix = @"Last Sync: ";
        // MySyncEntity *
         
         MySyncEntity *syncData =  [[MySyncEntity alloc ] init];
-        syncData.AddressBook =   (NSArray *) [self getAllContactsInfo];
+        syncData.AddressBookArray =   (NSArray *) [self getAllContactsInfo];
         
         [[RKObjectManager sharedManager] setSerializationMIMEType:RKMIMETypeJSON];
          [[RKObjectManager sharedManager] putObject:(id)syncData delegate:self];   

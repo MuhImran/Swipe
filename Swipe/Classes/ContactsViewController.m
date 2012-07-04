@@ -16,6 +16,7 @@
 #import "User.h"
 #import "EmailList.h"
 #import "ContactBook.h"
+#import "MySyncEntity.h"
 
 
 @implementation ContactsViewController
@@ -23,6 +24,7 @@
 @synthesize topicArray;
 @synthesize searchbar;
 @synthesize syncManager;
+@synthesize synEntity;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -52,12 +54,12 @@
      UIButton* leftButton = (UIButton*)item.leftBarButtonItem.customView;
      [leftButton addTarget:self action:@selector(backButtonMethod) forControlEvents:UIControlEventTouchUpInside];
      
-
-     self.topicArray = (NSMutableArray *)[self printAddressBook];
-     NSLog(@"array length is %d ",[topicArray count]);
-     [self saveDataToLocalPreference:self.topicArray];
+     self.synEntity = [[MySyncEntity alloc] init];
+    // self.topicArray = (NSMutableArray *)[self printAddressBook];
+     self.topicArray =  (NSMutableArray *)self.synEntity.AddressBookArray;
+      NSLog(@"array length is %d ",[topicArray count]);
      
-     isListView  = TRUE;
+     isListView  = FALSE;
          
 }
 
@@ -224,13 +226,6 @@
     }
 }
 
-
--(void) saveDataToLocalPreference:(NSMutableArray *)_array
-{
-    
-    
-    
-}
  
 #pragma mark Table view methods
 
@@ -255,7 +250,7 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath 
 {
  
-   if(isListView)
+   if(!isListView)
    {
        static NSString *hlCellID = @"hlCellID";
        UITableViewCell *hlcell = [tableView dequeueReusableCellWithIdentifier:hlCellID];

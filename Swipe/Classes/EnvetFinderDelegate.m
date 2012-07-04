@@ -762,7 +762,7 @@
     //now, we create mapping for the MySyncEntity
     RKObjectMapping *syncEntityMapping = [RKObjectMapping mappingForClass:[MySyncEntity class]];
   //  [objectManager.mappingProvider setObjectMapping:SocialMapping forKeyPath:@"Social"];
-    [syncEntityMapping mapKeyPath:@"AddressBook" toRelationship:@"AddressBook" withMapping:contactMapping];
+    [syncEntityMapping mapKeyPath:@"AddressBook" toRelationship:@"AddressBookArray" withMapping:contactMapping];
     [objectManager.mappingProvider setSerializationMapping:[syncEntityMapping inverseMapping]
                                               forClass:[MySyncEntity class]];
     /**
