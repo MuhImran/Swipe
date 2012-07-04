@@ -1,0 +1,80 @@
+10
+
+dir
+107
+http://192.168.3.4/usana/ios/Usana/RestKit/Vendor
+http://192.168.3.4/usana
+
+
+
+2012-04-15T23:41:31.760184Z
+35
+imran-ios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+555066ed-a0dc-49b3-9cde-2d5085878a0c
+
+LibComponentLogging
+dir
+
+JSONKit
+dir
+
+cocoa-oauth
+dir
+
+PortableStaticLibrary.xcconfig
+file
+
+
+
+
+2012-06-05T07:48:14.000000Z
+2f964330ff91f9be3d2173fb838989a8
+2012-04-15T23:41:31.760184Z
+35
+imran-ios
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+303
+
+appledoc
+dir
+
+FileMD5Hash
+dir
+
+SOCKit
+dir
+

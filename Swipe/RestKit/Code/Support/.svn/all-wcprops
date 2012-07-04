@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/usana/!svn/ver/56/ios/Usana/RestKit/Code/Support
+END
+NSURL+RestKit.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSURL+RestKit.m
+END
+RKParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKParser.h
+END
+NSString+RestKit.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSString+RestKit.m
+END
+RKPathMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKPathMatcher.h
+END
+RKSearchEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKSearchEngine.m
+END
+lcl_config_logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/lcl_config_logger.h
+END
+RKDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKDirectory.h
+END
+RKPathMatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKPathMatcher.m
+END
+RestKit-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RestKit-Prefix.pch
+END
+RKAlert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKAlert.h
+END
+lcl_config_components.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/lcl_config_components.h
+END
+RKDirectory.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKDirectory.m
+END
+RKAlert.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKAlert.m
+END
+RKMIMETypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKMIMETypes.h
+END
+Errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/Errors.h
+END
+RKDotNetDateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKDotNetDateFormatter.h
+END
+Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/Support.h
+END
+NSDictionary+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSDictionary+RKAdditions.h
+END
+RKLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKLog.h
+END
+RKMIMETypes.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/56/ios/Usana/RestKit/Code/Support/RKMIMETypes.m
+END
+lcl_config_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/lcl_config_extensions.h
+END
+RKFixCategoryBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKFixCategoryBug.h
+END
+RKDotNetDateFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKDotNetDateFormatter.m
+END
+Errors.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/Errors.m
+END
+NSDictionary+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSDictionary+RKAdditions.m
+END
+RKLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKLog.m
+END
+NSURL+RestKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSURL+RestKit.h
+END
+NSString+RestKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/NSString+RestKit.h
+END
+RKSearchEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Support/RKSearchEngine.h
+END

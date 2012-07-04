@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData
+END
+NSManagedObject+ActiveRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/NSManagedObject+ActiveRecord.h
+END
+RKManagedObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectMapping.h
+END
+RKManagedObjectStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectStore.h
+END
+NSManagedObject+ActiveRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/NSManagedObject+ActiveRecord.m
+END
+RKManagedObjectThreadSafeInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectThreadSafeInvocation.h
+END
+RKManagedObjectMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectMapping.m
+END
+RKManagedObjectStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectStore.m
+END
+RKManagedObjectCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectCache.h
+END
+RKManagedObjectThreadSafeInvocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectThreadSafeInvocation.m
+END
+RKManagedObjectLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectLoader.h
+END
+RKManagedObjectSeeder.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectSeeder.h
+END
+RKManagedObjectLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectLoader.m
+END
+RKManagedObjectSeeder.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectSeeder.m
+END
+RKManagedObjectMappingOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectMappingOperation.h
+END
+RKObjectPropertyInspector+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKObjectPropertyInspector+CoreData.h
+END
+RKManagedObjectMappingOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKManagedObjectMappingOperation.m
+END
+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/CoreData.h
+END
+RKObjectPropertyInspector+CoreData.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/CoreData/RKObjectPropertyInspector+CoreData.m
+END

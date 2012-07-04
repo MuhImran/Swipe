@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON
+END
+RailsUser.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/RailsUser.json
+END
+ComplexNestedUser.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/ComplexNestedUser.json
+END
+SameKeyDifferentTargetClasses.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/SameKeyDifferentTargetClasses.json
+END
+errors.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/errors.json
+END
+user.json
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/user.json
+END
+nested_user.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/nested_user.json
+END
+DynamicKeys.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/DynamicKeys.json
+END
+ConnectingParents.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/ConnectingParents.json
+END
+ArrayOfResults.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/ArrayOfResults.json
+END
+error.json
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/error.json
+END
+Foursquare.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/Foursquare.json
+END
+DynamicKeysWithRelationship.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/DynamicKeysWithRelationship.json
+END
+DynamicKeysWithNestedRelationship.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/DynamicKeysWithNestedRelationship.json
+END
+users.json
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/users.json
+END
+ArrayOfNestedDictionaries.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Fixtures/JSON/ArrayOfNestedDictionaries.json
+END

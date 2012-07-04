@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/Network.h
+END
+NSData+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSData+MD5.h
+END
+RKURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKURL.h
+END
+NSData+MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSData+MD5.m
+END
+RKURL.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKURL.m
+END
+RKReachabilityObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKReachabilityObserver.h
+END
+RKNotifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKNotifications.h
+END
+RKRequestCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestCache.h
+END
+RKReachabilityObserver.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKReachabilityObserver.m
+END
+RKClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKClient.h
+END
+RKNotifications.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKNotifications.m
+END
+RKRequestCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestCache.m
+END
+RKClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKClient.m
+END
+RKRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestSerialization.h
+END
+RKRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequest.h
+END
+NSDictionary+RKRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSDictionary+RKRequestSerialization.h
+END
+RKRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestSerialization.m
+END
+NSString+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSString+MD5.h
+END
+RKParamsAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKParamsAttachment.h
+END
+RKRequestQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestQueue.h
+END
+RKRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequest.m
+END
+NSDictionary+RKRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSDictionary+RKRequestSerialization.m
+END
+RKResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKResponse.h
+END
+NSString+MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/NSString+MD5.m
+END
+RKParamsAttachment.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKParamsAttachment.m
+END
+RKRequestQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestQueue.m
+END
+RKResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKResponse.m
+END
+RKRequest_Internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequest_Internals.h
+END
+RKRequestSerializable.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKRequestSerializable.h
+END
+RKOAuthClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKOAuthClient.h
+END
+RKParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKParams.h
+END
+RKOAuthClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKOAuthClient.m
+END
+RKParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/Network/RKParams.m
+END

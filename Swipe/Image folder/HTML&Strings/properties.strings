@@ -1,0 +1,156 @@
+/* 
+   properties.strings
+   FindASitter
+
+   Created by svp on 15/12/2010.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+
+/*Background Image*/
+
+"Background_Image"="DBackground.png";
+"Logo_Image"="logo.png";
+"textField_image"="textfield22.png";
+"homeScreen_image"="DBackground.png";
+"placeHolder"="placeholder.png";
+
+/*Normal_Button_Images*/
+"Ok_Button_Normal"="loginButton.png";
+"OK_Button_Over"="buttonUnselected.png";
+"OK_Button_Font"="Georgia-Bold";
+"OK_Button_Font_size" ="12";
+
+
+/*Cancel_Button Images*/
+
+"Cancel_Button_Normal"="buttonImage.png";
+"Cancel_Button_Over"="buttonImage.png";
+
+
+/*Disable_Button_Images*/
+
+"disable_Button_image"="textBack.png";
+
+
+/*Default_Message_textLimit*/
+
+"SMS_subject_limit" ="25";
+"SMS_desc_limit" ="125";
+
+/*MetaLabelFonts*/
+
+"metaLabelNormalFont"="Georgia";
+"metaLabelBoldFont"="Georgia-Bold";
+"metaLabelNormalFontSize" ="13";
+
+"cellLabelNormalFont"="TrebuchetMS";
+"cellLabelBoldFont"="TrebuchetMS-Bold";
+"cellLabelNormalFontSize" ="13";
+
+
+/*SERVICE_URL*/
+
+"serviceURl"="Service.asmx";
+
+
+/*WEB_SERVICE_METHODS*/
+
+"GetAllProducts"="GetProducts";
+"LoginUser"="LoginUser";
+"NewUserSignUp"="RegisterUser";
+"GetRecipies"="GetRecipe";
+"recipeDetail"="GetRecipeDetail";
+"newTransaction"="CreateNewTransaction";
+"AllCategories"="GetAllCategories";
+"AllStoresinformation"="GetStoreNameFromCellFireAPI";
+"getStoreCategories"="GetCategories";
+"getCoupon"="GetCoupon";
+"getCouponDetail"="GetCouponDetail";
+"searchProduct"="GetProduct";
+"CreateShoppingList"="CreateShoppingList";
+"addToShoppingList"="AddProductToShoppingList";
+"GetInventory "="GetInventory";
+"GetLessItems "="GetLessItems";
+"GetAllShoppingList "="GetAllShoppingList";
+"GetStoreName_Search "="GetStoreName_Search";
+"GetStoreName_Zip "="GetStoreName_Zip";
+"GetProduct"="GetProduct";
+"GetProductSearchLocal"="GetProduct";
+"Get_SharedShoppingLists"="Get_SharedShoppingLists";
+"GetReviews"="GetReviews";
+"RemoveShoppingList"="RemoveShoppingList";
+"GetAllUsers"="GetAllUsers";
+"ShareShoppingList"="ShareShoppingList";
+"GetShoppingList"="GetShoppingList";
+"UpdateShopListWithQty"="UpdateShopListWithQty";
+
+
+
+
+
+/*PRODUCT_ATTIRIBUTES*/
+
+"ProductId"="ProductId";
+"ProductCode"="ProductCode";
+"ProductBarCode"="ProductBarCode";
+"product_StoreId"="StoreId";
+"ProductName"="ProductName";
+"ProductDesc"="ProductDescription";
+"ImageUrl"="ImageUrl";
+"Price"="Price";
+"IsActive"="IsActive";
+"CatId"="CatId";
+
+/*RECIPES_ATTIRIBUTES*/
+
+"RecipeId"="RecipeId";
+"RecipeName"="RecipeName";
+"RecipeCode"="ProductCode";
+"RecipeDesc"="RecipeDesc";
+
+/*CATEGORIES_ATTIRIBUTES*/
+
+"categoryId"="CatId";
+"categoryName"="CatName";
+
+/*STORES_ATTIRIBUTES*/
+
+"storeId"="StoreId";
+"storeName"="StoreName";
+
+
+/*NEWUSER_SIGNUP*/
+
+"RegisterUserResult"="RegisterUserResult";
+
+
+/*COUPON_ATTIRIBUTES*/
+
+"couponId"="CouponId";
+"couponProductId"="ProductId";
+"Discount"="Discount";
+"couponProductName"="ProductName";
+"couponDesc"="Description";
+
+
+
+/*CREATE_SHOPPING*/
+
+"CreateShoppingListResult"="CreateShoppingListResult";
+
+
+/*OBJECT_ARRAY_KEYS*/
+
+
+
+"productArray"="productArray";
+"recipiesArray"="recipiesArray";
+"CouponArray"="CouponArray";
+"categoriesArray"="categoriesArray";
+"storesArray"="storesArray";
+"couponArray"="couponArray";
+"inventoryArray"="inventoryArray";
+"itemlookUp"="itemlookUp";
+
+

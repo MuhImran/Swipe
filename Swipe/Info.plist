@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string>&lt;key&gt;UIStatusBarHidden&lt;/key&gt;&lt;true /&gt;</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.posterBoard</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.11</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array/>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>Icon_pb.png</string>
+		<string>Icon_pb@2x.png</string>
+	</array>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleDocumentTypes</key>
+	<array/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb300218919992865</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon_pb.png</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>UTImportedTypeDeclarations</key>
+	<array/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+</dict>
+</plist>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping
+END
+RKObjectLoaderSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectLoaderSpec.m
+END
+RKObjectMappingProviderSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectMappingProviderSpec.m
+END
+RKObjectSerializerSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectSerializerSpec.m
+END
+RKObjectManagerSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectManagerSpec.m
+END
+RKObjectMappingResultSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectMappingResultSpec.m
+END
+RKObjectiveCPlusPlusSpec.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectiveCPlusPlusSpec.mm
+END
+RKObjectMappingOperationSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectMappingOperationSpec.m
+END
+RKParserRegistrySpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKParserRegistrySpec.m
+END
+RKDynamicObjectMappingSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKDynamicObjectMappingSpec.m
+END
+RKObjectRouterSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectRouterSpec.m
+END
+RKObjectMappingNextGenSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/ObjectMapping/RKObjectMappingNextGenSpec.m
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit
+END
+README.mdown
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/README.mdown
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/LICENSE
+END
+SOCKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/SOCKit.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/.gitignore
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/AUTHORS
+END
+SOCKit.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Vendor/SOCKit/SOCKit.m
+END

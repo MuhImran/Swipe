@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models
+END
+RKObjectLoaderSpecResultModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKObjectLoaderSpecResultModel.m
+END
+RKParent.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKParent.m
+END
+RKDynamicMappingModels.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKDynamicMappingModels.h
+END
+RKCat.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKCat.h
+END
+RKObjectMapperSpecModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKObjectMapperSpecModel.h
+END
+RKMappableObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKMappableObject.h
+END
+RKHuman.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKHuman.h
+END
+RKDynamicMappingModels.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKDynamicMappingModels.m
+END
+RKCat.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKCat.m
+END
+RKObjectMapperSpecModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKObjectMapperSpecModel.m
+END
+RKMappableObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKMappableObject.m
+END
+RKHuman.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKHuman.m
+END
+RKResident.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKResident.h
+END
+RKMappableAssociation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKMappableAssociation.h
+END
+RKResident.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKResident.m
+END
+RKMappableAssociation.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKMappableAssociation.m
+END
+RKHouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKHouse.h
+END
+RKChild.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKChild.h
+END
+RKObjectLoaderSpecResultModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKObjectLoaderSpecResultModel.h
+END
+RKHouse.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKHouse.m
+END
+RKChild.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKChild.m
+END
+RKParent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Models/RKParent.h
+END

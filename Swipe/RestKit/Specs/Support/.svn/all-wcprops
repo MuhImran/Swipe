@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support
+END
+RKXMLParserSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/RKXMLParserSpec.m
+END
+RKDotNetDateFormatterSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/RKDotNetDateFormatterSpec.m
+END
+NSStringRestKitSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/NSStringRestKitSpec.m
+END
+RKPathMatcherSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/RKPathMatcherSpec.m
+END
+NSDictionary+RKRequestSerializationSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/NSDictionary+RKRequestSerializationSpec.m
+END
+RKJSONParserJSONKitSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Support/RKJSONParserJSONKitSpec.m
+END

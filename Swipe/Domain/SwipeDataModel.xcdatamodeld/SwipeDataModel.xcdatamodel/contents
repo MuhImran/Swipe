@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1171" systemVersion="11E53" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="ContactBook" representedClassName="ContactBook" syncable="YES">
+        <attribute name="companyName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="dept" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dob" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imgURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNo" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="phones" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="PhoneList" syncable="YES"/>
+        <relationship name="userEmails" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="EmailList" syncable="YES"/>
+        <relationship name="userSocial" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="SocialData" syncable="YES"/>
+    </entity>
+    <entity name="EmailList" representedClassName="EmailList" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="emailTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PhoneList" representedClassName="PhoneList" syncable="YES">
+        <attribute name="phoneId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="phoneNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SocialData" representedClassName="SocialData" syncable="YES">
+        <attribute name="facebook" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="facebookURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="flicker" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="flickerURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="linkedIn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="linkedInURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mySpace" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mySpaceURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="twitter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="twitterURL" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isLinked" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastSyncAt" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="rememerMe" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="timezone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="token" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hasContacts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ContactBook" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ContactBook" positionX="108" positionY="171" width="128" height="210"/>
+        <element name="EmailList" positionX="-9" positionY="207" width="128" height="90"/>
+        <element name="PhoneList" positionX="-315" positionY="279" width="128" height="90"/>
+        <element name="SocialData" positionX="-92" positionY="189" width="128" height="195"/>
+        <element name="User" positionX="160" positionY="192" width="128" height="165"/>
+    </elements>
+</model>

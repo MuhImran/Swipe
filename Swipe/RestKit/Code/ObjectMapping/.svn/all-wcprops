@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping
+END
+RKErrorMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKErrorMessage.h
+END
+RKObjectPropertyInspector.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.h
+END
+RKObjectMappingOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingOperation.h
+END
+RKErrorMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKErrorMessage.m
+END
+RKObjectRelationshipMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectRelationshipMapping.h
+END
+RKObjectMapper_Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapper_Private.h
+END
+RKObjectRouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectRouter.h
+END
+RKObjectPropertyInspector.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.m
+END
+RKObjectMappingOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingOperation.m
+END
+RKObjectRelationshipMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectRelationshipMapping.m
+END
+RKObjectRouter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectRouter.m
+END
+RKObjectMappingResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingResult.h
+END
+RKParserRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKParserRegistry.h
+END
+RKObjectMappingResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingResult.m
+END
+RKDynamicObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKDynamicObjectMapping.h
+END
+RKParserRegistry.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKParserRegistry.m
+END
+RKObjectMappingDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingDefinition.h
+END
+RKDynamicObjectMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKDynamicObjectMapping.m
+END
+RKObjectMappingProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingProvider.h
+END
+RKObjectLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectLoader.h
+END
+RKObjectSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectSerializer.h
+END
+RKObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectManager.h
+END
+RKObjectMappingProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMappingProvider.m
+END
+RKObjectLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectLoader.m
+END
+RKObjectSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectSerializer.m
+END
+RKObjectAttributeMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectAttributeMapping.h
+END
+RKObjectManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectManager.m
+END
+RKObjectAttributeMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectAttributeMapping.m
+END
+RKObjectMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapper.h
+END
+RKObjectLoader_Internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectLoader_Internals.h
+END
+RKObjectMapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapper.m
+END
+RKRouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKRouter.h
+END
+RKMappingOperationQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKMappingOperationQueue.h
+END
+RKObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapping.h
+END
+RKObjectMapperError.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapperError.h
+END
+ObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/ObjectMapping.h
+END
+RKMappingOperationQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKMappingOperationQueue.m
+END
+RKObjectMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/usana/!svn/ver/35/ios/Usana/RestKit/Code/ObjectMapping/RKObjectMapping.m
+END

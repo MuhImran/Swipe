@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner
+END
+set_ip_address.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner/set_ip_address.scpt
+END
+RKSpecEnvironment.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner/RKSpecEnvironment.h
+END
+RKSpecResponseLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner/RKSpecResponseLoader.h
+END
+RKSpecEnvironment.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner/RKSpecEnvironment.m
+END
+RKSpecResponseLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usana/!svn/ver/35/ios/Usana/RestKit/Specs/Runner/RKSpecResponseLoader.m
+END

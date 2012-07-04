@@ -1,0 +1,17 @@
+body {
+    color: black;
+    font-size: 13px;
+    font-family: Georgia;
+	width: 300px;
+   background-color: transparent;
+}
+ h1,h2,h3,h4,h5,h6 {
+         text-align: left;
+		 color : #000000;
+         clear: both;
+         }
+ table { margin-left: auto; margin-right: auto; text-align: left;
+            margin-top: 1em;
+			 font-size: 13px;
+           font-family: Georgia;
+          }

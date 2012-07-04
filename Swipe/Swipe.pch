@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'ORBooks' target in the 'ORBooks' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "SVProgressHUD.h"
+    #import <CoreData/CoreData.h>
+    #import "Logging.h"
+    
+#endif

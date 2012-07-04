@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData/main.m
+END
+RKSeedDatabase.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData/RKSeedDatabase.sqlite
+END
+RKTwitter_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData/RKTwitter_Prefix.pch
+END
+users.json
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData/users.json
+END
+restkit.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/usana/!svn/ver/35/ios/Usana/RestKit/Examples/RKTwitterCoreData/restkit.json
+END
