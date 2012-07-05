@@ -27,6 +27,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"SWIPE";
     IsSignUpView = TRUE;
     [self displayView];
 	

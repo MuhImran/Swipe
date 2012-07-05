@@ -14,6 +14,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "socailConnectObject.h"
 #import "tokeInfo.h"
+#import "SignupVC.h"
 
 @implementation LoginViewCotroller
 @synthesize facebookButton,SignIncancelButton,viewSwitcherButtons;
@@ -31,6 +32,9 @@
 
 -(IBAction)signUpButtonPressed:(id)sender
 {
+    SignupVC *signUpVC = [[SignupVC alloc] initWithNibName:@"SignupVC" bundle:nil];
+    [self.navigationController pushViewController:signUpVC animated:YES];
+    [signUpVC release];
     
     
 }
@@ -46,6 +50,7 @@
 -(void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:YES];
+    self.title = @"SWIPE";
 }
 -(IBAction) signInMethod :(id)sender
 {

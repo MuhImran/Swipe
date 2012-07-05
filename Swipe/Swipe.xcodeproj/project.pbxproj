@@ -50,6 +50,8 @@
 		8C8F60F212ADFE29008989C9 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C8F60F112ADFE29008989C9 /* AddressBook.framework */; };
 		8C8F60F412ADFE29008989C9 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C8F60F312ADFE29008989C9 /* AddressBookUI.framework */; };
 		8C95700C120FD94800296C97 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C95700B120FD94800296C97 /* MapKit.framework */; };
+		BC2E8E1A15A629E200F87891 /* btnBackSwipe.png in Resources */ = {isa = PBXBuildFile; fileRef = BC2E8E1815A629E200F87891 /* btnBackSwipe.png */; };
+		BC2E8E1B15A629E200F87891 /* btnBackSwipe@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC2E8E1915A629E200F87891 /* btnBackSwipe@2x.png */; };
 		C101710413BDE1CC00281520 /* photosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C101710213BDE1CC00281520 /* photosViewController.m */; };
 		C101710513BDE1CC00281520 /* photosViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C101710313BDE1CC00281520 /* photosViewController.xib */; };
 		C1022EB513D47236009AFA55 /* NearMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C1022EB313D47236009AFA55 /* NearMeViewController.m */; };
@@ -591,6 +593,8 @@
 		8C8F60F312ADFE29008989C9 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
 		8C95700B120FD94800296C97 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC2E8E1815A629E200F87891 /* btnBackSwipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnBackSwipe.png; sourceTree = "<group>"; };
+		BC2E8E1915A629E200F87891 /* btnBackSwipe@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btnBackSwipe@2x.png"; sourceTree = "<group>"; };
 		C101710113BDE1CC00281520 /* photosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = photosViewController.h; sourceTree = "<group>"; };
 		C101710213BDE1CC00281520 /* photosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = photosViewController.m; sourceTree = "<group>"; };
 		C101710313BDE1CC00281520 /* photosViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = photosViewController.xib; sourceTree = "<group>"; };
@@ -1288,6 +1292,8 @@
 		1DBACD4A15A219A600C56CAA /* Swipe Images */ = {
 			isa = PBXGroup;
 			children = (
+				BC2E8E1815A629E200F87891 /* btnBackSwipe.png */,
+				BC2E8E1915A629E200F87891 /* btnBackSwipe@2x.png */,
 				1DBACD7C15A234EA00C56CAA /* addMemberImage.png */,
 				1DBACD7A15A22F0F00C56CAA /* settingBackImage1.png */,
 				1DBACD6D15A21CB000C56CAA /* menuButton.png */,
@@ -2700,6 +2706,8 @@
 				1DBACD7D15A234EA00C56CAA /* addMemberImage.png in Resources */,
 				1DBACD8215A2358D00C56CAA /* addMemberVC.xib in Resources */,
 				1DA5E70215A4C7DF00816733 /* .gitignore in Resources */,
+				BC2E8E1A15A629E200F87891 /* btnBackSwipe.png in Resources */,
+				BC2E8E1B15A629E200F87891 /* btnBackSwipe@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

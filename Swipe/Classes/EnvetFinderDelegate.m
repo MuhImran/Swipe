@@ -116,7 +116,11 @@
         
             login = [[LoginViewCotroller alloc] initWithNibName:@"LoginViewCotroller" bundle:[NSBundle mainBundle]];
             [login retain];
-            [window addSubview:login.view];
+         UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:login];
+         navController.navigationBar.barStyle = UIBarStyleBlack;
+         //navController.navigationBarHidden = YES;
+            //[window addSubview:login.view];
+         [window addSubview:navController.view];
             [window makeKeyAndVisible];	
             hasAlreadyLogin = FALSE; 
     }
@@ -137,7 +141,13 @@
             
         //}
     [login retain];
-        [window addSubview:login.view];
+    
+    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:login];
+    navController.navigationBar.barStyle = UIBarStyleBlack;
+    //navController.navigationBarHidden = YES;
+    //[window addSubview:login.view];
+    [window addSubview:navController.view];
+        //[window addSubview:login.view];
         hasAlreadyLogin = FALSE; 
         [window makeKeyAndVisible];	
 }
